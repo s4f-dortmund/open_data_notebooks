@@ -1,0 +1,9 @@
+# values taken for 2020, 2030, 2040
+# https://www.umweltbundesamt.de/sites/default/files/medien/384/bilder/dateien/2_abb_thg-emissionen-seit-1990-nach-gasen_2019.pdf
+# 2050 is 95% percent reduction compared to 1990 as 
+# said in "Klimaschutzplan 2050"
+year,target_klimaplan2050
+2020-12-31,751
+2030-12-31,563
+2040-12-31,375
+2050-12-31,62.5

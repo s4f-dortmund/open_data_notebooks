@@ -1,0 +1,20 @@
+# co2 rest budgets for the world starting from 1.1.2018
+# according to table 2.2 of
+# https://www.ipcc.ch/site/assets/uploads/sites/2/2019/02/SR15_Chapter2_Low_Res.pdf
+# deg celsius, deg celsius, GtCO2
+warming_20062015,warming_preindustrial,rest_budget
+0.3,,80
+0.4,,230
+0.5,,380
+0.53,1.5,420
+0.6,,530
+0.63,,570
+0.7,,680
+0.78,,800
+0.8,,830
+0.9,,980
+1,,1130
+1.03,2,1170
+1.1,,1280
+1.13,,1320
+1.2,,1430
