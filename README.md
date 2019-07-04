@@ -1,15 +1,6 @@
-# Sea Ice Analysis Notebooks
+# Analysis of Sea Ice at the Poles
 
-This project contains analysis prototypes for sea ice data.
-
-Actually it also contains some other analyses, because the author did not think very far when naming the repository.
-
-## Sea Ice
-
-Analyses of the nsidc datasets.
-
-### Sources
-
+>>>>>>> origin/master:README.md
 The studies in this repository are based on data from the nsidc:
 
 As a condition of using these data, you must cite the use of this data set using the following citation. For more information, visit http://nsidc.org/about/use_copyright.html
