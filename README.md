@@ -1,4 +1,6 @@
-# Analysis of Sea Ice at the Poles
+# Jupyter Notebooks to Analyze Open Climate Data
+
+## Analysis of Sea Ice at the Poles
 
 The studies in this repository are based on data from the nsidc:
 
@@ -9,7 +11,4 @@ Fetterer, F., K. Knowles, W. N. Meier, M. Savoie, and A. K. Windnagel. 2017, upd
 ## CO2 Budgets
 
 Analyses of the remaining CO2 budget based on data from the BMU.
-
-### Sources
-
-Umweltbundesamt, Nationale Treibhausgas-Inventare 1990 bis 2017 (Stand 01/2019) und Zeitnahschätzung für 2018 aus UBA Presse-Information 09/2019 (korrigiert)
+All sources are listed in the headers of the data files.
